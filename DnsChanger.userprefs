@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DnsChangerApp/Program.cs" ctype="Workbench">
+    <Files>
+      <File FileName="DnsChangerApp/Program.cs" Line="6" Column="24" />
+      <File FileName="DnsChangerApp/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="DnsChangerApp/Properties/Resources.resx" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
